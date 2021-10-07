@@ -2,7 +2,7 @@
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![Linkedin: thaianebraga](https://img.shields.io/badge/-emilio_ortz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/emilio-fabian-ortiz/) [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![Linkedin: thaianebraga](https://img.shields.io/badge/-emilio_ortz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/emilio-fabian-ortiz/)
 
 
 
@@ -11,6 +11,7 @@ Hi, I'm **Emilio Ortiz**. I am a nanotechnology engineering student from Veracru
 🌱I have some experience with **Python**, **Matlab** and **HTML/CSS** || 🔭 I’m currently working on my **R** and **javascript** abilities || 📫 How to reach me: [Mail](A01733915@itesm.mx) 
 <br>
 <br>
+ [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ## 📫 Contact Me on Social Media
 
 [Facebook](https://www.facebook.com/people/Emilio-Fabian-Hdz-Ortiz/100007285271339/) | [Instagram](https://www.instagram.com/nano.milo/) | [Twitter](https://twitter.com/fabian_ortiz_em) | Feel Free to 💬 [Contact Me](A01733915@itesm.mx) about Anything!
