@@ -6,35 +6,16 @@
 
 
 
-Hi, I'm **Emilio Ortiz**. I am a nanotechnology engineering student from Veracruz, Mexico. I'm currently working on better my understanding of bioinformatics as a research volunteer.  
+🌱 **Emilio Ortiz**. Engineer from Tec de Monterrey. I'm currently learning bioinformatics.
 
-🌱I have some experience with **Python**, **Matlab** and **HTML/CSS** || 🔭 I’m currently working on my **R** and **javascript** abilities || 📫 How to reach me: [Mail](A01733915@itesm.mx) 
 <br>
 <br>
  [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ## 📫 Contact Me on Social Media
+| Feel Free to 💬 [Contact Me](emilifortiz@gmail.com) about Anything!
+<br>
+<br>
 
-[Facebook](https://www.facebook.com/people/Emilio-Fabian-Hdz-Ortiz/100007285271339/) | [Instagram](https://www.instagram.com/nano.milo/) | [Twitter](https://twitter.com/fabian_ortiz_em) | Feel Free to 💬 [Contact Me](A01733915@itesm.mx) about Anything!
-<br>
-<br>
-```javascript
-const Emilio = {
-  pronouns: "he" | "him",
-  code: [Python, Matlab, HTML, CSS]
-  workin_on: [R, Javascript, Bash, SQL, C++ ],
-  interests: ["bioinformatics","transcriptomics", "data science", "computational chemistry"],
-  SciCommunities: {
-                        project_director: "ACS Tec Mty",
-                        member: "iGemTecMty",
-                        assistant: "TecBASE"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on python and R"
-}
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
-## 📚 Fun writting and books 
-
-You can find a list of my writting posts on 📖 **[fabianortizemilio.medium.com](https://fabianortizemilio.medium.com/)**.
