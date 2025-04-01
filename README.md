@@ -6,7 +6,7 @@
 
 🌱 **Emilio Ortiz**. Engineer from Tec de Monterrey. I'm currently learning bioinformatics.
 
-## 📫 Contact Me on Social Media
+## 📫 Contact Me 
 | Feel Free to 💬 [Contact Me](emilifortiz@gmail.com) about Anything!
 
 
